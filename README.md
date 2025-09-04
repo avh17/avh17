@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Anirudh Herady
-
 🎓 **MS Computer Science @ Arizona State University** | 📍 Tempe, AZ  
 🚀 **Full-Stack Developer & AI Enthusiast** with experience in scalable cloud architectures
 
 ## 🔧 What I Do
+- **AI-Powered Applications**: Building intelligent chatbots and location intelligence systems with LLMs, RAG, and vector embeddings
 - **Cloud & Microservices**: Building serverless and scalable solutions on AWS (Lambda, EC2, S3, SQS)
 - **AI/ML Applications**: Developing LLM-powered tools with LangChain, transformers, and semantic search
 - **Full-Stack Development**: Creating responsive web apps with React.js, Next.js, and modern backends
@@ -20,8 +20,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## 🌟 Recent Highlights
-- Built AWS serverless face recognition services handling 100+ concurrent requests
-- Developed microservices architecture serving multiple clients at Valtech India
+- **Led development of Location Intelligence Chatbot at Maponomy** - AI-powered geospatial system serving thousands of users with RAG technology
+- Built AWS serverless face recognition services handling concurrent requests at scale
+- Developed microservices architecture serving multiple enterprise clients at Valtech India
 - Created AI-powered news research tools and cloud storage platforms
 - Experienced in containerization with Docker and CI/CD pipelines
 
@@ -30,6 +31,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avh17&layout=compact&theme=radical)
 
 ## 🚀 Featured Projects
+- **[Location Intelligence Chatbot](https://github.com/avh17/location-intelligence-chatbot)** - AI-powered geospatial query system with LLMs & RAG (Maponomy)
 - **[AWS Serverless Face Recognition](https://github.com/avh17/aws-serverless-face-recognition)** - Scalable face recognition pipeline with Lambda & SQS
 - **[StoreIt-Cloud Storage](https://github.com/avh17/storeit-cloud-storage)** - Full-stack file management platform with Next.js & Appwrite
 - **[RockyBot-News Research LLM](https://github.com/avh17/rockybot-news-research)** - AI-powered news research tool with LangChain & Gemini
@@ -40,6 +42,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/avh17)
 
 ---
-*Always excited to collaborate on innovative projects involving cloud computing, AI/ML, and scalable web applications!*
+*Always excited to collaborate on innovative projects involving cloud computing, AI/ML, geospatial technology, and scalable web applications!*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=avh17&color=brightgreen)
