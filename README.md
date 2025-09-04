@@ -26,10 +26,6 @@
 - Created AI-powered news research tools and cloud storage platforms
 - Experienced in containerization with Docker and CI/CD pipelines
 
-## 📊 GitHub Stats
-![Anirudh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avh17&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avh17&layout=compact&theme=radical)
-
 ## 🚀 Featured Projects
 - **[Location Intelligence Chatbot](https://github.com/avh17/location-intelligence-chatbot)** - AI-powered geospatial query system with LLMs & RAG (Maponomy)
 - **[AWS Serverless Face Recognition](https://github.com/avh17/aws-serverless-face-recognition)** - Scalable face recognition pipeline with Lambda & SQS
