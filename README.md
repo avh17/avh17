@@ -27,10 +27,10 @@
 - Experienced in containerization with Docker and CI/CD pipelines
 
 ## 🚀 Featured Projects
-- **[Location Intelligence Chatbot](https://github.com/avh17/location-intelligence-chatbot)** - AI-powered geospatial query system with LLMs & RAG (Maponomy)
-- **[AWS Serverless Face Recognition](https://github.com/avh17/aws-serverless-face-recognition)** - Scalable face recognition pipeline with Lambda & SQS
-- **[StoreIt-Cloud Storage](https://github.com/avh17/storeit-cloud-storage)** - Full-stack file management platform with Next.js & Appwrite
-- **[RockyBot-News Research LLM](https://github.com/avh17/rockybot-news-research)** - AI-powered news research tool with LangChain & Gemini
+- **[Location Intelligence Chatbot]** - AI-powered geospatial query system with LLMs & RAG (Maponomy)
+- **[AWS Serverless Face Recognition]** - Scalable face recognition pipeline with Lambda & SQS
+- **[StoreIt-Cloud Storage]** - Full-stack file management platform with Next.js & Appwrite
+- **[RockyBot-News Research LLM]** - AI-powered news research tool with LangChain & Gemini
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudhherady)
