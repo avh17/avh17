@@ -10,7 +10,7 @@
 
 ## About Me
 
-Full-stack engineer specializing in **scalable backend systems** and **AI applications**. Currently pursuing my M.S. in Computer Science at Arizona State University (GPA: 3.78/4.0), graduating May 2026.
+Full-stack engineer specializing in **scalable backend systems** and **AI applications**. Currently pursuing my M.S. in Computer Science at Arizona State University (GPA: 3.85/4.0), graduating May 2026.
 
 I thrive in building production-grade systems that solve real problems-from intelligent chatbots that eliminate manual analyst work to distributed face recognition systems handling 100+ concurrent requests. My experience spans delivering microservices for video streaming platforms, architecting RAG pipelines, and optimizing cloud infrastructure.
 
