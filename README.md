@@ -34,15 +34,15 @@ class Anirudh:
 ## Professional Experience
 
 **Software Intern @ Potters Tech** *(Jul 2025 - Aug 2025)*
-- Built a production-ready Location Intelligence Chatbot enabling 100+ users to query geospatial data across 50+ cities
-- Architected custom RAG pipeline improving response accuracy by 60% and reducing query time from 5 minutes to <10 seconds
-- Integrated OpenStreetMap APIs achieving 95% accurate POI search across 2,000+ locations
+- Built a production-ready Location Intelligence Chatbot enabling users to query geospatial data across 50+ cities.
+- Architected custom RAG pipeline improving response accuracy and reducing query time.
+- Integrated OpenStreetMap APIs achieving accurate POI search across 2,000+ locations.
 
 **Associate Software Developer @ Valtech India** *(Aug 2022 - Sep 2023)*
-- Deployed 8 FastAPI microservices supporting 10,000+ concurrent users with 99.9% uptime
-- Reduced Docker image sizes by 60% and deployment time by 67% through multi-stage builds
-- Optimized database performance by 40%, cutting query latency from 800ms to 480ms
-- Implemented JWT/OAuth2 RBAC securing 3 user permission levels
+- Deployed 8 FastAPI microservices for a video streaming CMS.
+- Reduced Docker image sizes and deployment time through multi-stage builds
+- Optimized database performance, cut query latency.
+- Implemented JWT/OAuth2 RBAC securing 3 user permission levels.
 
 ## Tech Stack
 
