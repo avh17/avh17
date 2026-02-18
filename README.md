@@ -72,6 +72,13 @@ class Anirudh:
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Featured Projects
+### [Portfolio Website](https://anirudhvhportfolio.vercel.app/)
+  - React + Vite - Built with React 19 as the UI framework, bundled and served via Vite for fast development and optimized
+  builds.
+  - Tailwind CSS + GSAP - Styled with Tailwind CSS utility classes and animated using GSAP (GreenSock Animation Platform)
+  for smooth, professional-grade UI interactions — fitting for a macOS-themed portfolio.
+  - Zustand + React Router - State managed with Zustand (with Immer for immutable updates) and client-side navigation
+  handled by React Router DOM.
 
 ### [Distributed Face Recognition System](https://github.com/avh17/aws-serverful-facerecognition)
 **Tech Stack:** AWS (Lambda, EC2, SQS, S3) • Python • Docker
